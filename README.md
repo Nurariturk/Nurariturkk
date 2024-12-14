@@ -1,0 +1,2 @@
+# Nurariturkk
+odev1
